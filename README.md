@@ -92,7 +92,9 @@ Valores **ilustrativos, criados por mim** para este projeto. Não vêm de nenhum
 
 ## Prints
 
-*(adicione aqui prints da mesma simulação em dois perfis, por exemplo Conservador e Arrojado)*
+![1] (https://github.com/Dudad771/renda-fii/edit/main/README.md)
+
+![2] (https://github.com/Dudad771/renda-fii/edit/main/README.md)
 
 ## Estrutura do repositório
 
