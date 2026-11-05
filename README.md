@@ -90,11 +90,11 @@ Valores **ilustrativos, criados por mim** para este projeto. Não vêm de nenhum
 - Total aportado do próprio bolso, para comparar com o patrimônio final.
 - *(complete com as suas próprias mudanças)*
 
-## Prints
+# Prints
 
-![1] (https://github.com/Dudad771/renda-fii/edit/main/README.md)
+![Simulador de Fundos Imobiliários](ARROJADO.PNG.png)
 
-![2] (https://github.com/Dudad771/renda-fii/edit/main/README.md)
+![Simulador de Fundos Imobiliários - Conservador](CONSERVADOR.PNG.png)
 
 ## Estrutura do repositório
 
